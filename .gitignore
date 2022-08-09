@@ -1,0 +1,6 @@
+# maven ignore
+target/
+
+# idea ignore
+.idea/
+*.iml
